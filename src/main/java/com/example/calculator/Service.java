@@ -6,7 +6,7 @@ public class Service {
         return "hello";
     }
     public String calculator() {
-        return "Добро пожаловать в калькулятор";
+        return "Добро пожаловать в калькулятор!";
     }
     public String plusSign(int num1, int num2) {
         return num1 + " + " + num2 + " = " + (num1 + num2);
